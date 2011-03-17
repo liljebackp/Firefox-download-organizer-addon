@@ -1,0 +1,7 @@
+content   downloadmanager                 chrome/content/
+skin      downloadmanager   classic/1.0   chrome/skin/
+locale    downloadmanager   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://downloadmanager/content/ff-overlay.xul
+style chrome://global/content/customizeToolbar.xul chrome://downloadmanager/skin/overlay.css

@@ -1,0 +1,8 @@
+<!ENTITY downloadmanager.label "Your localized menuitem">
+<!ENTITY downloadmanagerContext.label "Your Menuitem">
+<!ENTITY downloadmanagerContext.accesskey "Y">
+<!ENTITY downloadmanagerToolbarButton.label "Your Toolbar Button">
+<!ENTITY downloadmanagerToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY downloadmanagerSidebar.label "Your Sidebar">
+<!ENTITY downloadmanagerToolbar.name  "example">
+<!ENTITY downloadmanagerToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &downloadmanagerToolbar.name;">
